@@ -1,0 +1,29 @@
+input[type=button],input[type=number], header,p, #res{
+    margin: 30px 0 0;
+}
+header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+
+p{
+    font-size: 18px;
+}
+
+input[type=number]{
+    margin-left: 5px;
+    height:20px;
+    padding: 5px;
+}
+
+input[type=submit]{
+    background-color: green; 
+    color: white; 
+    font-size: 12pt; 
+    padding: 5px; 
+    cursor: pointer;
+}
+
+#res{
+    font-size: 20px;
+}
